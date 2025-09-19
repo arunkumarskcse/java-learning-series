@@ -76,7 +76,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/java-dsa-learning-series.git  
+git clone https://github.com/arunkumarskcse/java-learning-series  
 cd java-dsa-learning-series  
 Follow the Series:
 Start with Java Fundamentals and progress through the Data Structures and Algorithms sections.
